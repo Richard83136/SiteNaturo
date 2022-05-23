@@ -1,0 +1,105 @@
+.bg{
+  background-color: rgba(213, 195, 238, 0.952) ;
+ font-size:15px;
+}
+
+
+
+.bgA { 
+    /* The image used */
+    background-image: url("/public/images/A1.png");
+    width:100%;
+  
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .bgD {
+    /*background-color: rgba(57, 160, 179, 0.4);*/
+      background: linear-gradient(rgba(87, 207, 127, 0.336), rgb(142, 151, 160)),url("/public/images/diet1.png");
+      /*background-image:
+    radial-gradient(
+      circle at top right,
+      yellow,
+      #f06d06
+    );*/
+    width:100%;
+  
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgH {
+    /*background-color: rgba(57, 160, 179, 0.4);*/
+      background: linear-gradient(rgba(65, 153, 94, 0.336), rgb(96, 135, 173)),url("/public/images/H1.png");
+      /*background-image:
+    radial-gradient(
+      circle at top right,
+      yellow,
+      #f06d06
+    );*/
+    width:100%;
+  
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgV {
+    /*background-color: rgba(168, 210, 218, 0.4);*/
+      background: linear-gradient(rgba(65, 153, 94, 0.336), rgb(96, 135, 173)),url("/public/images/H1.png");
+      
+    
+     
+      
+    width:100%;
+  
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgC {
+    /*background-color: rgba(168, 210, 218, 0.4);*/
+      background: url("/public/images/tuinaF.png");
+      
+    width:100%;
+  
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .textT{
+    font-size: 1.5vw;
+    text-align: center;
+    padding-top: 5%;
+  }
+  .textT span{
+    color:rgb(4, 7, 24);
+  }
+  .footer{
+    position:absolute;
+     bottom: 0px;
+     width: 100%;
+     
+    
+  }
+  
+  .ifr{
+    width: 35vw;
+    height: 35vh;
+  }
